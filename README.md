@@ -1,2 +1,7 @@
 # py-poo
-A test repo about POO in Python
+
+A repo to implement features using python POO!
+
+**:brain: This is a repo study :brain:**
+
+---
