@@ -1,4 +1,4 @@
-# py-poo
+# PY.POO
 
 A repo to implement features using python POO!
 
